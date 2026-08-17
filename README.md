@@ -1,2 +1,27 @@
-# Codealpha-internship
-A collection of C programming projects completed during my CodeAlpha Internship, demonstrating my skills in C programming, problem-solving, algorithms, data structures, and software development fundamentals.
+# CodeAlpha C Internship
+
+## Projects
+### 1. Calculator
+Description...
+
+### 2. Matrix Calculator
+Description...
+
+## Technologies Used
+- C
+- GCC
+- Git & GitHub
+
+## Concepts Used
+- Functions
+- Loops
+- Conditional statements
+- Arrays
+- 2D arrays
+- Switch-case
+
+## How to Run
+Compilation instructions...
+
+## Author
+Yash
